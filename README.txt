@@ -1,0 +1,1 @@
+This is a collection of my current solutions to coderbytes challenges done for java practice purposes. Code is commented where possible. Solutions checked online and placed in checked.txt when verified
