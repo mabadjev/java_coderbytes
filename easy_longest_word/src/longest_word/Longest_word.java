@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Maksim Abadjev easy level longest word challenge
+ * Challenge is to find longest word in a string
+ * Challenge courtesy of www.coderbyte.com
  */
 package longest_word;
 
@@ -10,7 +10,7 @@ import java.io.*;
 
 /**
  *
- * @author Userman
+ * @author Maksim Abadjev
  */
 public class Longest_word {
 
@@ -22,6 +22,8 @@ public class Longest_word {
        call must match the return type of the function.
        You are free to modify the return type. */
 
+    //Split the Java string along the builtin Word regex, iterate over the array
+    //keep track of longest word and length of longest word
     int maxLength =0;
     
     String result ="";
